@@ -1,0 +1,1 @@
+ALTER TABLE `vrp_users` ADD `atmcode` int(30) DEFAULT 1234;
