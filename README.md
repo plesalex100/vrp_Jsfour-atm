@@ -3,6 +3,7 @@
 - I've added an working PIN System
 
 Original ESX Resource: https://forum.fivem.net/t/jsfour-atm-english-translation/167223
+! Don't change resource name !
 
 # Instalation
 
